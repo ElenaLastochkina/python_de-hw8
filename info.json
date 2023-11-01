@@ -1,0 +1,168 @@
+{
+  "parent": "Python_DE",
+  "name": "HW8",
+  "type": "dir",
+  "size": 12331,
+  "child": [
+    {
+      "parent": "HW8",
+      "name": "data_files",
+      "type": "dir",
+      "size": 230,
+      "child": [
+        {
+          "parent": "data_files",
+          "name": "data_files2",
+          "type": "dir",
+          "size": 115,
+          "child": [
+            {
+              "parent": "data_files2",
+              "name": "memory.txt",
+              "size": 6,
+              "type": "file"
+            },
+            {
+              "parent": "data_files2",
+              "name": "picture.jpg",
+              "size": 0,
+              "type": "file"
+            },
+            {
+              "parent": "data_files2",
+              "name": "picture.png",
+              "size": 0,
+              "type": "file"
+            },
+            {
+              "parent": "data_files2",
+              "name": "table.csv",
+              "size": 76,
+              "type": "file"
+            },
+            {
+              "parent": "data_files2",
+              "name": "table_2.csv",
+              "size": 23,
+              "type": "file"
+            },
+            {
+              "parent": "data_files2",
+              "name": "text.txt",
+              "size": 10,
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "parent": "data_files",
+          "name": "files_33",
+          "type": "dir",
+          "size": 0,
+          "child": [
+            {
+              "parent": "files_33",
+              "name": "picture.jpg",
+              "size": 0,
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "parent": "data_files",
+          "name": "ory_fn_000.txt",
+          "size": 6,
+          "type": "file"
+        },
+        {
+          "parent": "data_files",
+          "name": "picture.jpg",
+          "size": 0,
+          "type": "file"
+        },
+        {
+          "parent": "data_files",
+          "name": "picture.png",
+          "size": 0,
+          "type": "file"
+        },
+        {
+          "parent": "data_files",
+          "name": "table.csv",
+          "size": 76,
+          "type": "file"
+        },
+        {
+          "parent": "data_files",
+          "name": "table_2.csv",
+          "size": 23,
+          "type": "file"
+        },
+        {
+          "parent": "data_files",
+          "name": "t_fn_001.txt",
+          "size": 10,
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "parent": "HW8",
+      "name": "hw_pack",
+      "type": "dir",
+      "size": 11378,
+      "child": [
+        {
+          "parent": "hw_pack",
+          "name": "dir_info.py",
+          "size": 3129,
+          "type": "file"
+        },
+        {
+          "parent": "hw_pack",
+          "name": "seminar_json.py",
+          "size": 3375,
+          "type": "file"
+        },
+        {
+          "parent": "hw_pack",
+          "name": "__pycache__",
+          "type": "dir",
+          "size": 4874,
+          "child": [
+            {
+              "parent": "__pycache__",
+              "name": "dir_info.cpython-311.pyc",
+              "size": 4874,
+              "type": "file"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "parent": "HW8",
+      "name": "hw_serialize.py",
+      "size": 723,
+      "type": "file"
+    },
+    {
+      "parent": "HW8",
+      "name": "info.csv",
+      "size": 0,
+      "type": "file"
+    },
+    {
+      "parent": "HW8",
+      "name": "info.json",
+      "size": 0,
+      "type": "file"
+    },
+    {
+      "parent": "HW8",
+      "name": "info.pcl",
+      "size": 0,
+      "type": "file"
+    }
+  ]
+}
